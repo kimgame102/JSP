@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# JSP
-=======
 ## JSP
 <a name="readme-top"></a>
 
