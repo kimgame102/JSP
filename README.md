@@ -210,5 +210,3 @@
     3. config.xml에 datasource 설정
     4. config.xml에 mapper.xml 경로 등록
     5. DAO에서 mapper.xml에 작성한 쿼리 실행
-    
->>>>>>> master
